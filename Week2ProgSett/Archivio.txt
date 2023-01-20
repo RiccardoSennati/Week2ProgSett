@@ -1,0 +1,1 @@
+Libro autore = Riccardo, genere = Giallo
